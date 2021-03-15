@@ -1,0 +1,7 @@
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\bin\Debug\CalculatorConsolAPP.exe.config
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\bin\Debug\CalculatorConsolAPP.exe
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\bin\Debug\CalculatorConsolAPP.pdb
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\obj\Debug\CalculatorConsolAPP.csprojAssemblyReference.cache
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\obj\Debug\CalculatorConsolAPP.csproj.CoreCompileInputs.cache
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\obj\Debug\CalculatorConsolAPP.exe
+E:\3418_2\Pemrograman_p01\CalculatorConsolAPP\obj\Debug\CalculatorConsolAPP.pdb
